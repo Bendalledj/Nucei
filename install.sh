@@ -13,6 +13,7 @@ git clone https://github.com/peanuth8r/Nuclei_Templates.git
 git clone https://github.com/thebrnwal/Content-Injection-Nuclei-Script.git
 git clone https://github.com/ree4pwn/my-nuclei-templates.git
 git clone https://github.com/im403/nuclei-temp.git
+git clone https://github.com/Lu3ky13/Authorization-Nuclei-Templates.git
 git clone https://github.com/System00-Security/backflow.git
 git clone https://github.com/geeknik/nuclei-templates-1.git
 git clone https://github.com/geeknik/the-nuclei-templates.git
